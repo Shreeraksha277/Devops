@@ -1,1 +1,7 @@
 print("B1")
+print("Hello it is texted from notepad")
+print("VVCE")
+print("B1")
+print("Hello it is texted from notepad")
+print("VVCE")
+print("New things")
