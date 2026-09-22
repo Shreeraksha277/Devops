@@ -1,1 +1,1 @@
-print("Master")
+print("b2")
